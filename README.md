@@ -1,5 +1,5 @@
 <h1>Spotify Data Analysis<h1>
-<h3>[Notebook view Link] (https://nbviewer.org/github/patrickmcalinden/Spotify-Data-Analysis/blob/main/data.ipynb) </h3>
+[Notebook view Link] (https://nbviewer.org/github/patrickmcalinden/Spotify-Data-Analysis/blob/main/data.ipynb)
 
 
 <h3>Project Overview</h3>
