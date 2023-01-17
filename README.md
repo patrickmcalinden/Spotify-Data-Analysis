@@ -1,4 +1,6 @@
 <h1>Spotify Data Analysis<h1>
+<h3>Notebook view Link (https://nbviewer.org/github/patrickmcalinden/Spotify-Data-Analysis/blob/main/data.ipynb) </h3>
+
 
 <h3>Project Overview</h3>
 I frequently use Spotify and I decided to utilize my "extensive history" data to interact with the API and conduct data analysis.
