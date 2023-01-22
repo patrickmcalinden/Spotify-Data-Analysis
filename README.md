@@ -1,5 +1,5 @@
 <h1>Spotify Data Analysis<h1>
-Notebook view  (https://nbviewer.org/github/patrickmcalinden/Spotify-Data-Analysis/blob/main/data.ipynb)
+Tableau Dashboard  (https://public.tableau.com/app/profile/patrick.mcalinden/viz/SpotifyDataDashboard/Dashboard1)
 
 
 <h3>Project Overview</h3>
