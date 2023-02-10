@@ -1,5 +1,5 @@
 <h1>Spotify Data Analysis<h1>
-Tableau Dashboard  (https://public.tableau.com/app/profile/patrick.mcalinden/viz/SpotifyDataDashboard/Dashboard1)
+Tableau Dashboard  (https://public.tableau.com/app/profile/patrick.mcalinden/viz/SpotifyDataDashboardRework/Dashboard1)
 
 
 <h3>Project Overview</h3>
